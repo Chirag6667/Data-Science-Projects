@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyBXl9rsBvPTCDzDphZDpSyb7TQhYfQE6C4") # API KEY HERE
+genai.configure(api_key="Yours API KEY") # API KEY HERE
 model = genai.GenerativeModel('gemini-2.0-flash') # Initializing Gemini Model
 
 SYSTEM_PROMPT = """
@@ -120,4 +120,5 @@ if user_input:
         })
 
         with st.chat_message("assistant"):
+
             st.markdown(bot_response)
