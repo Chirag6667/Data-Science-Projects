@@ -45,3 +45,21 @@
 ---
 
 ## 💡 Quick Reference — When to Use What?
+Tabular data competition  → XGBoost / LightGBM
+Many categorical features → CatBoost
+Need interpretability     → Decision Tree / Logistic Regression
+Text classification       → Naive Bayes / SVM
+Small dataset             → KNN / SVM
+Large dataset             → LightGBM
+No labels available       → K-Means
+Too many features         → PCA first!
+Best possible accuracy    → Stacking
+
+---
+
+## 🔧 Tech Stack
+- Python, Pandas, NumPy
+- Scikit-learn, XGBoost, LightGBM, CatBoost
+- Matplotlib, Seaborn
+
+---
