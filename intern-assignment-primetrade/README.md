@@ -109,4 +109,4 @@ Traders were segmented into 3 behavioral archetypes using KMeans (K=3, features:
 
 ## Author
 
-Chirag | Data Science Intern Applicant
+Chirag | Intern Applicant
