@@ -1,5 +1,3 @@
-	4.	Let’s write the README.md now. Open README.md in VS Code and paste this:
-
 # 🔍 TalentLens — Intelligent Candidate Screening
 
 > AI-powered hiring assistant built for TalentScout recruitment agency.
@@ -33,7 +31,7 @@
 1. Clone the repository:
 
 
-git clone link
+git clone (https://github.com/Chirag6667/Data-Science-Projects/tree/main/TalentLens)   
 cd TalentLens
 
 
@@ -94,20 +92,20 @@ or asking multiple questions at once.
 
 
 
-TalentLens/
-├── app.py          → Main Streamlit application
-├── prompts.py      → LLM system prompt and messages
-├── utils.py        → Helper functions and info extraction
-├── styles.py       → Custom CSS dark navy + gold theme
-├── requirements.txt
-└── README.md
+TalentLens/    
+├── app.py          → Main Streamlit application   
+├── prompts.py      → LLM system prompt and messages   
+├── utils.py        → Helper functions and info extraction      
+├── styles.py       → Custom CSS dark navy + gold theme    
+├── requirements.txt     
+└── README.md     
 
 
 ---
 
 ## 🔗 Links
 
-- GitHub: https://github.com/Chirag6667/TalentLens
+- GitHub: [https://github.com/Chirag6667/TalentLens](https://github.com/Chirag6667/Data-Science-Projects/tree/main/TalentLens)
 - Live Demo: (Streamlit Cloud link after deployment)
 
 ---
