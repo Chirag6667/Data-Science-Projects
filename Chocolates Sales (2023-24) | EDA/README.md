@@ -3,6 +3,10 @@ Chocolate Sales Analysis (2023--2024)
 
 This project provides a comprehensive **Exploratory Data Analysis (EDA)** of a synthetic retail dataset containing **1 million transactions**. The analysis focuses on identifying high-value sales channels, brand performance, and consumer demographic trends to drive strategic business decisions.
 
+## Dataset 
+https://www.kaggle.com/datasets/ssssws/chocolate-sales-dataset-2023-2024
+--------------------
+
 * * * * *
 
 ## Executive Summary
