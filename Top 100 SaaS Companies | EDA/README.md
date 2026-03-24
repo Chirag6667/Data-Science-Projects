@@ -2,7 +2,7 @@ SaaS Giants 2025: Financial & Operational EDA
 Dataset : https://www.kaggle.com/datasets/shreyasdasari7/top-100-saas-companiesstartups
 =============================================
 
-This repository contains a comprehensive Exploratory Data Analysis (EDA) of the **Top 100 SaaS Companies/Startups as of 2025**. The project transforms raw financial strings into actionable metrics to evaluate market valuation, revenue efficiency, and workforce productivity.
+The project transforms raw financial strings into actionable metrics to evaluate market valuation, revenue efficiency, and workforce productivity.
 
 🚀 Project Overview
 -------------------
