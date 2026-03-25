@@ -19,6 +19,8 @@ Labor markets are the heartbeat of global stability. This project aims to visual
 
 -   **NumPy**: Numerical operations for trend analysis.
 
+-   **Dataset**: https://www.kaggle.com/datasets/lucalullo/global-employment-unemployment-rates-1991-2025
+
 📈 Analysis Highlights
 ----------------------
 
