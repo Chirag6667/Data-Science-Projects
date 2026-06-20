@@ -49,8 +49,6 @@
 | [**House Prices**](./House-Prices/) | Regression on Kaggle's classic housing dataset | XGBoost · Feature Engineering · Scikit-learn | — |
 | [**Iris Flower Classification**](./Iris%20Flower%20Classification/) | Classic multiclass classification | Scikit-learn | — |
 | [**Talent Scout AI**](./Talent%20Scout%20AI/) | Resume-to-role matching system | NLP · Scikit-learn | — |
-| [**Primetrade Intern Assignment**](./intern-assignment-primetrade/) | Data science assignment for Primetrade.ai | Python · ML | — |
-
 ---
 
 ## 🧠 Deep Learning & Time Series
