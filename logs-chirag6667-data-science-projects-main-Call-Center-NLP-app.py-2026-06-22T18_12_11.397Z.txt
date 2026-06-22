@@ -1,0 +1,310 @@
+
+[     UTC     ] Logs for data-science-projects-4pisyntjwpavgtdycuk3jo.streamlit.app/
+────────────────────────────────────────────────────────────────────────────────────────
+[15:52:13] 🚀 Starting up repository: 'data-science-projects', branch: 'main', main module: 'Call Center NLP/app.py'
+[15:52:13] 🐙 Cloning repository...
+[15:52:15] 🐙 Cloning into '/mount/src/data-science-projects'...
+
+[15:52:15] 🐙 Cloned repository!
+[15:52:15] 🐙 Pulling code changes from Github...
+[15:52:16] 📦 Processing dependencies...
+
+──────────────────────────────────────── uv ───────────────────────────────────────────
+
+Using uv pip install.
+error: Failed to parse: `NLP/requirements.txt`
+  Caused by: Expected path (`NLP/requirements.txt`) to end in a supported file extension: `.whl`, `.tar.gz`, `.zip`, `.tar.bz2`, `.tar.lz`, `.tar.lzma`, `.tar.xz`, `.tar.zst`, `.tar`, `.tbz`, `.tgz`, `.tlz`, or `.txz`
+NLP/requirements.txt
+^^^^^^^^^^^^^^^^^^^^
+Checking if Streamlit is installed
+Installing rich for an improved exception logging
+Using uv pip install.
+Using Python 3.14.6 environment at /home/adminuser/venv
+Resolved 4 packages in 120ms
+Prepared 4 packages in 105ms
+Installed 4 packages in 15ms
+ + [2026-06-22 15:52:16.732716] markdown-it-py==4.2.0
+ + mdurl==0.1.2
+ + pygments==2.20.0
+ + rich==15.0.0
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────── pip ───────────────────────────────────────────
+
+Using standard pip install.
+ERROR: Invalid requirement: 'NLP/requirements.txt'
+Hint: It looks like a path. File 'NLP/requirements.txt' does not exist.
+
+[notice] A new release of pip is available: 24.0 -> 26.1.2
+[notice] To update, run: pip install --upgrade pip
+Checking if Streamlit is installed
+Installing rich for an improved exception logging
+Using standard pip install.
+Collecting rich>=10.14.0
+  Downloading rich-15.0.0-py3-none-any.whl.metadata (18 kB)
+Collecting markdown-it-py>=2.2.0 (from rich>=10.14.0)
+  Downloading markdown_it_py-4.2.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting pygments<3.0.0,>=2.13.0 (from rich>=10.14.0)
+  Downloading pygments-2.20.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich>=10.14.0)
+  Downloading mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 310.7/310.7 kB 15.1 MB/s eta 0:00:00[2026-06-22 15:52:19.103630] 
+Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 91.7/91.7 kB 457.4 MB/s eta 0:00:00[2026-06-22 15:52:19.114901] 
+Downloading pygments-2.20.0-py3-none-any.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 78.6 MB/s eta 0:00:00[2026-06-22 15:52:19.140874] 
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Installing collected packages: pygments, mdurl, markdown-it-py, rich
+  Attempting uninstall: pygments
+    Found existing installation: Pygments 2.20.0
+    Uninstalling Pygments-2.20.0:
+      Successfully uninstalled Pygments-2.20.0
+  Attempting uninstall: mdurl
+    Found existing installation: mdurl 0.1.2
+    Uninstalling mdurl-0.1.2:
+      Successfully uninstalled mdurl-0.1.2
+  Attempting uninstall: markdown-it-py
+    Found existing installation: markdown-it-py 4.2.0
+    Uninstalling markdown-it-py-4.2.0:
+      Successfully uninstalled markdown-it-py-4.2.0
+  Attempting uninstall: rich
+    Found existing installation: rich 15.0.0
+    Uninstalling rich-15.0.0:
+      Successfully uninstalled rich-15.0.0
+Successfully installed markdown-it-py-4.2.0 mdurl-0.1.2 pygments-2.20.0 rich-15.0.0
+
+[notice] A new release of pip is available: 24.0 -> 26.1.2
+[notice] To update, run: pip install --upgrade pip
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[15:52:21] ❗️ installer returned a non-zero exit code
+[15:52:21] ❗️ Error during processing dependencies! Please fix the error and push an update, or try restarting the app.
+[18:09:06] 🐙 Pulling code changes from Github...
+[18:09:06] 📦 Processing dependencies...
+
+──────────────────────────────────────── uv ───────────────────────────────────────────
+
+Using uv pip install.
+error: Failed to parse: `NLP/requirements.txt`
+  Caused by: Expected path (`NLP/requirements.txt`) to end in a supported file extension: `.whl`, `.tar.gz`, `.zip`, `.tar.bz2`, `.tar.lz`, `.tar.lzma`, `.tar.xz`, `.tar.zst`, `.tar`, `.tbz`, `.tgz`, `.tlz`, or `.txz`
+NLP/requirements.txt
+^^^^^^^^^^^^^^^^^^^^
+Checking if Streamlit is installed
+Installing rich for an improved exception logging
+Using uv pip install.
+Using Python 3.14.6 environment at /home/adminuser/venv
+Audited 1 package in 1ms
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────── pip ───────────────────────────────────────────
+
+Using standard pip install.
+ERROR: Invalid requirement: 'NLP/requirements.txt'
+Hint: It looks like a path. File 'NLP/requirements.txt' does not exist.
+
+[notice] A new release of pip is available: 24.0 -> 26.1.2
+[notice] To update, run: pip install --upgrade pip
+Checking if Streamlit is installed
+Installing rich for an improved exception logging
+Using standard pip install.
+Collecting rich>=10.14.0
+  Downloading rich-15.0.0-py3-none-any.whl.metadata (18 kB)
+Collecting markdown-it-py>=2.2.0 (from rich>=10.14.0)
+  Downloading markdown_it_py-4.2.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting pygments<3.0.0,>=2.13.0 (from rich>=10.14.0)
+  Downloading pygments-2.20.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich>=10.14.0)
+  Downloading mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 310.7/310.7 kB 12.7 MB/s eta 0:00:00[2026-06-22 18:09:09.728832] 
+Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 91.7/91.7 kB 343.8 MB/s eta 0:00:00[2026-06-22 18:09:09.741373] 
+Downloading pygments-2.20.0-py3-none-any.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 73.4 MB/s eta 0:00:00[2026-06-22 18:09:09.771208] 
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Installing collected packages: pygments, mdurl, markdown-it-py, rich
+  Attempting uninstall: pygments
+    Found existing installation: Pygments 2.20.0
+    Uninstalling Pygments-2.20.0:
+      Successfully uninstalled Pygments-2.20.0
+  Attempting uninstall: mdurl
+    Found existing installation: mdurl 0.1.2
+    Uninstalling mdurl-0.1.2:
+      Successfully uninstalled mdurl-0.1.2
+  Attempting uninstall: markdown-it-py
+    Found existing installation: markdown-it-py 4.2.0
+    Uninstalling markdown-it-py-4.2.0:
+      Successfully uninstalled markdown-it-py-4.2.0
+  Attempting uninstall: rich
+    Found existing installation: rich 15.0.0
+    Uninstalling rich-15.0.0:
+      Successfully uninstalled rich-15.0.0
+Successfully installed markdown-it-py-4.2.0 mdurl-0.1.2 pygments-2.20.0 rich-15.0.0
+
+[notice] A new release of pip is available: 24.0 -> 26.1.2
+[notice] To update, run: pip install --upgrade pip
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[18:09:11] ❗️ installer returned a non-zero exit code
+[18:09:26] 🐙 Pulling code changes from Github...
+[18:09:27] 📦 Processing dependencies...
+
+──────────────────────────────────────── uv ───────────────────────────────────────────
+
+Using uv pip install.
+error: Failed to parse: `NLP/requirements.txt`
+  Caused by[2026-06-22 18:09:27.779770] : Expected path (`NLP/requirements.txt`) to end in a supported file extension: `.whl`, `.tar.gz`, `.zip`, `.tar.bz2`, `.tar.lz`, `.tar.lzma`, `.tar.xz`, `.tar.zst`, `.tar`, `.tbz`, `.tgz`, `.tlz`, or `.txz`
+NLP/requirements.txt
+^^^^^^^^^^^^^^^^^^^^
+Checking if Streamlit is installed
+Installing rich for an improved exception logging
+Using uv pip install.
+Using Python 3.14.6 environment at /home/adminuser/venv
+Audited 1 package in 0.90ms
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────── pip ───────────────────────────────────────────
+
+Using standard pip install.
+ERROR: Invalid requirement: 'NLP/requirements.txt'
+Hint: It looks like a path. File 'NLP/requirements.txt' does not exist.
+
+[notice] A new release of pip is available: 24.0 -> 26.1.2
+[notice] To update, run: pip install --upgrade pip
+Checking if Streamlit is installed
+Installing rich for an improved exception logging
+Using standard pip install.
+Collecting rich>=10.14.0
+  Downloading rich-15.0.0-py3-none-any.whl.metadata (18 kB)
+Collecting markdown-it-py>=2.2.0 (from rich>=10.14.0)
+  Downloading markdown_it_py-4.2.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting pygments<3.0.0,>=2.13.0 (from rich>=10.14.0)
+  Downloading pygments-2.20.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich>=10.14.0)
+  Downloading mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 310.7/310.7 kB 13.5 MB/s eta 0:00:00[2026-06-22 18:09:30.517247] 
+Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 91.7/91.7 kB 301.5 MB/s eta 0:00:00[2026-06-22 18:09:30.529984] 
+Downloading pygments-2.20.0-py3-none-any.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 80.4 MB/s eta 0:00:00[2026-06-22 18:09:30.557738] 
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Installing collected packages: pygments, mdurl, markdown-it-py, rich
+  Attempting uninstall: pygments
+    Found existing installation: Pygments 2.20.0
+    Uninstalling Pygments-2.20.0:
+      Successfully uninstalled Pygments-2.20.0
+  Attempting uninstall: mdurl
+    Found existing installation: mdurl 0.1.2
+    Uninstalling mdurl-0.1.2:
+      Successfully uninstalled mdurl-0.1.2
+  Attempting uninstall: markdown-it-py
+    Found existing installation: markdown-it-py 4.2.0
+    Uninstalling markdown-it-py-4.2.0:
+      Successfully uninstalled markdown-it-py-4.2.0
+  Attempting uninstall: rich
+    Found existing installation: rich 15.0.0
+    Uninstalling rich-15.0.0:
+      Successfully uninstalled rich-15.0.0
+Successfully installed markdown-it-py-4.2.0 mdurl-0.1.2 pygments-2.20.0 rich-15.0.0
+
+[notice] A new release of pip is available: 24.0 -> 26.1.2
+[notice] To update, run: pip install --upgrade pip
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[18:09:32] ❗️ installer returned a non-zero exit code
+[18:11:14] 🖥 Provisioning machine...
+[18:11:19] 🎛 Preparing system...
+[18:11:15] 🚀 Starting up repository: 'data-science-projects', branch: 'main', main module: 'Call Center NLP/app.py'
+[18:11:15] 🐙 Cloning repository...
+[18:11:17] 🐙 Cloning into '/mount/src/data-science-projects'...
+
+[18:11:17] 🐙 Cloned repository!
+[18:11:17] 🐙 Pulling code changes from Github...
+[18:11:17] 📦 Processing dependencies...
+
+──────────────────────────────────────── uv ───────────────────────────────────────────
+
+Using uv pip install.
+error: Failed to parse: `NLP/requirements.txt`
+  Caused by: Expected path (`NLP/requirements.txt`) to end in a supported file extension: `.whl`, `.tar.gz`, `.zip`, `.tar.bz2`, `.tar.lz`, `.tar.lzma`, `.tar.xz`, `.tar.zst`, `.tar`, `.tbz`, `.tgz`, `.tlz`, or `.txz`
+NLP/requirements.txt
+^^^^^^^^^^^^^^^^^^^^
+Checking if Streamlit is installed
+Installing rich for an improved exception logging
+Using uv pip install.
+Using Python 3.14.6 environment at /home/adminuser/venv
+Resolved 4 packages in 136ms
+Prepared 4 packages in 124ms
+Installed 4 packages in 25ms
+ + markdown-it-py==4.2.0[2026-06-22 18:11:18.406100] 
+ + mdurl==0.1.2
+ + pygments==2.20.0
+ + rich==15.0.0
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────── pip ───────────────────────────────────────────
+
+Using standard pip install.
+ERROR: Invalid requirement: 'NLP/requirements.txt'
+Hint: It looks like a path. File 'NLP/requirements.txt' does not exist.
+[18:11:22] ⛓ Spinning up manager process...
+
+[notice] A new release of pip is available: 24.0 -> 26.1.2
+[notice] To update, run: pip install --upgrade pip
+Checking if Streamlit is installed
+Installing rich for an improved exception logging
+Using standard pip install.
+Collecting rich>=10.14.0
+  Downloading rich-15.0.0-py3-none-any.whl.metadata (18 kB)
+Collecting markdown-it-py>=2.2.0 (from rich>=10.14.0)
+  Downloading markdown_it_py-4.2.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting pygments<3.0.0,>=2.13.0 (from rich>=10.14.0)
+  Downloading pygments-2.20.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich>=10.14.0)
+  Downloading mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 310.7/310.7 kB 12.8 MB/s eta 0:00:00[2026-06-22 18:11:20.870985] 
+Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 91.7/91.7 kB 426.8 MB/s eta 0:00:00[2026-06-22 18:11:20.884549] 
+Downloading pygments-2.20.0-py3-none-any.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 78.4 MB/s eta 0:00:00[2026-06-22 18:11:20.913846] 
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Installing collected packages: pygments, mdurl, markdown-it-py, rich
+  Attempting uninstall: pygments
+    Found existing installation: Pygments 2.20.0
+    Uninstalling Pygments-2.20.0:
+      Successfully uninstalled Pygments-2.20.0
+  Attempting uninstall: mdurl
+    Found existing installation: mdurl 0.1.2
+    Uninstalling mdurl-0.1.2:
+      Successfully uninstalled mdurl-0.1.2
+  Attempting uninstall: markdown-it-py
+    Found existing installation: markdown-it-py 4.2.0
+    Uninstalling markdown-it-py-4.2.0:
+      Successfully uninstalled markdown-it-py-4.2.0
+  Attempting uninstall: rich
+    Found existing installation: rich 15.0.0
+    Uninstalling rich-15.0.0:
+      Successfully uninstalled rich-15.0.0
+Successfully installed markdown-it-py-4.2.0 mdurl-0.1.2 pygments-2.20.0 rich-15.0.0
+
+[notice] A new release of pip is available: 24.0 -> 26.1.2
+[notice] To update, run: pip install --upgrade pip
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[18:11:22] ❗️ installer returned a non-zero exit code
+[18:11:22] ❗️ Error during processing dependencies! Please fix the error and push an update, or try restarting the app.
